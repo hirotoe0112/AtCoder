@@ -1,14 +1,46 @@
 ﻿Module _20190421
 
-    Sub Main()
-
-
-
-    End Sub
 
 End Module
 
 Module Past_20190421
+
+    Sub A_Favorite_Sound()
+        'https://atcoder.jp/contests/abc120/tasks/abc120_a
+
+        Dim sRead As String = Console.ReadLine()
+
+        Dim iOnceMoney As Integer = sRead.Split(" ")(0)
+        Dim iHaveMoney As Integer = sRead.Split(" ")(1)
+        Dim iMaxCount As Integer = sRead.Split(" ")(2)
+
+        If iOnceMoney * iMaxCount > iHaveMoney Then
+
+            Console.WriteLine(iHaveMoney \ iOnceMoney)
+
+        Else
+
+            Console.WriteLine(iMaxCount)
+
+        End If
+
+    End Sub
+
+    Sub A_White_Cells()
+        'https://atcoder.jp/contests/abc121/tasks/abc121_a
+
+        Dim sRead1 As String = Console.ReadLine()
+        Dim sRead2 As String = Console.ReadLine()
+
+        Dim iColumn As Integer = sRead1.Split(" ")(0)
+        Dim iRow As Integer = sRead1.Split(" ")(1)
+
+        Dim iBlackColumn As Integer = sRead2.Split(" ")(0)
+        Dim iBlackRow As Integer = sRead2.Split(" ")(1)
+
+        Console.WriteLine(iColumn * iRow - iBlackColumn * iRow - iBlackRow * iColumn + iBlackColumn * iBlackRow)
+
+    End Sub
 
     Sub A_Double_Helix()
         'https://atcoder.jp/contests/abc122/tasks/abc122_a
