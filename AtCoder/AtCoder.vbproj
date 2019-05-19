@@ -96,6 +96,7 @@
     <Compile Include="20190423.vb" />
     <Compile Include="20190425.vb" />
     <Compile Include="20190427.vb" />
+    <Compile Include="20190519.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
