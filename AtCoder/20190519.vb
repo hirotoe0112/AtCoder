@@ -1,10 +1,5 @@
 ﻿Module _20190519
 
-    Sub Main()
-
-
-
-    End Sub
 
 End Module
 
