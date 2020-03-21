@@ -1,12 +1,5 @@
 ﻿Module _20190526
 
-    Sub Main()
-        'https://atcoder.jp/contests/abc128/tasks/abc128_b
-
-
-
-    End Sub
-
 End Module
 
 Module Past_20190526
