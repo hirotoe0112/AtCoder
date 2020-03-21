@@ -2,10 +2,9 @@ F:\07programming\AtCoder\AtCoder\AtCoder\bin\Debug\AtCoder.exe.config
 F:\07programming\AtCoder\AtCoder\AtCoder\bin\Debug\AtCoder.exe
 F:\07programming\AtCoder\AtCoder\AtCoder\bin\Debug\AtCoder.pdb
 F:\07programming\AtCoder\AtCoder\AtCoder\bin\Debug\AtCoder.xml
-F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.vbprojAssemblyReference.cache
 F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.Resources.resources
 F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.vbproj.GenerateResource.cache
-F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.vbproj.CoreCompileInputs.cache
 F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.exe
 F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.xml
 F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.pdb
+F:\07programming\AtCoder\AtCoder\AtCoder\obj\Debug\AtCoder.vbprojAssemblyReference.cache
