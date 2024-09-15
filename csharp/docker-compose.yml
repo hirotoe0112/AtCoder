@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  atcoder:
+    build:
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./src:/usr/src
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    tty: true
