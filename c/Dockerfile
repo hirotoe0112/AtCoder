@@ -1,2 +1,2 @@
-FROM gcc:14.2.0
+FROM gcc:12.2.0-bullseye
 WORKDIR /usr/src
