@@ -1,2 +1,2 @@
-FROM openjdk:11-slim
+FROM openjdk:17-jdk-slim-buster
 WORKDIR /usr/src
